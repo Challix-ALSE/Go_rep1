@@ -12,4 +12,6 @@ func main() {
 	fmt.Print("Third")
 	// Форматированный вывод: Printf - стандартный вывод os.Stdout  c флагами форматирования
 	fmt.Printf("\nHello, my name is %s\nMy age is %d\n", "Bob", 42)
+	//////////////////////
+	//////////////////////
 }
